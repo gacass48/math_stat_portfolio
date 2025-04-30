@@ -19,6 +19,5 @@ This blog is a reflection of the 5 Math/Stat Mini-Projects, and a reflection of 
 
 The first mini-project looks at the sampling distribution of sample statistics besides the sample mean, in this case the sample minimum and maximum. It considers 4 common distributions; Normal, Uniform, Exponential, and Beta, and looks at how the sample minimums and maximums are distributed. To see the distributions we used a sample size of n = 5, took the sample statistic, and repeated the simulation 5000 times to get a distribution of sample maxes or mins for our selected common distribution. 
 
-Mini-Project 2 is a unique assignment where 
-
+Mini-Project 2 is a unique assignment where we created a story based on a list of vocabulary terms relating to estimation. The 
 
