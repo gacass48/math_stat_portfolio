@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "e4b1a1da"
+  },
+  "about.qmd": {
+    "about.html": "420ff74e"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "bd26d8d6"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "0c22213e"
+  },
+  "posts/01_simulation/index.qmd": {
+    "index.html": "0dd91108"
+  },
+  "posts/01_sample_stats/index.qmd": {
+    "index.html": "4c0c59ec"
+  },
+  "posts/02_meaningful_story/index.qmd": {
+    "index.html": "35af0dba"
+  },
+  "posts/03_simulating_CI/index.qmd": {
+    "index.html": "45d62550"
+  },
+  "posts/04_bayesian_analysis/index.qmd": {
+    "index.html": "bda9bc57"
+  },
+  "posts/05_using_p_values/index.qmd": {
+    "index.html": "bc9c4684"
+  }
+}

@@ -1,0 +1,72 @@
+---
+title: "Mini-Project 2: A Meaningful Story"
+format: html
+---
+
+It was a sunny Monday afternoon in Germany where two old men were sitting outside a pub, chatting away about their days.
+
+“What’s the likelihood a guy can get a beer around here?”, one joked.
+
+“I think its pretty high” replied the other, “A lot better than at that café over there for sure”.
+
+“That’s probably true” conceded the first, “but if you were to give an estimate what would you say?”
+
+“Only about 25%, but that’s because the pub doesn’t open for another 40 minutes”, explained the second man.
+
+“That logic seems pretty flawed; what type of estimator would you use to get such a high likelihood” questioned the first.
+
+“You own the pub” exclaimed the second man, “I simply estimated the odds you would find the key in the next few minutes to be about 0.25.”
+
+“Well, I guess I should start looking” replied the first, “I do only hide the key in 4 different spots, where should I start?”
+
+“Just pick one randomly.”
+
+Across the street, a schoolteacher and students were watching this exchange, and discussing the situation the men found themselves in.
+
+“Now children, what probability distribution does this situation follow?” asked the teacher. None of them responded.
+
+“It’s a binomial distribution” explained the teacher, “there is a success and failure and set number of trials.”
+
+“No its not” piped up a student, “It’s a geometric distribution, the man only looks until he finds the key.”
+
+“But what about sampling without replacement?” questioned the teacher.
+
+“I’ve watched him look for his keys before” replied the student, “his commitment to a random search is astonishing, he looks in the same spot repeatedly if it is randomly selected.”
+
+“I guess the search does function as a Geometric Random Variable” conceded the teacher, “with each time he searches giving us a random sample from the distribution.”
+
+“But what are the parameters for the distribution?” queried another student, “what would I put into R-studio to look at random samples from the distribution.”
+
+“This Geometric distribution would have the parameter of p equals 0.25” answered the teacher, “but why are you so interested in when the pub opens?”
+
+Back across the street the old men were looking back at the teacher and students and were commenting on how they looked.
+
+“The way they are standing looks similar to a normal distribution” said the pub owner, “the tallest are in the middle, with the shortest on the ends.”
+
+“It looks like the tallest are slightly to the right of where the mean would be” joked the second, “looks like your distribution might have a little Bias.”
+
+“Maybe it does”
+
+“The variance looks a little weird also” continued the second, “the people on the ends aren’t short enough which would indicate that the distribution has high variance.”
+
+“I guess so”
+
+“What’s the matter with you?”
+
+“I just wish I could get in the pub.”
+
+“You own the pub you Nimrod.”
+
+“Oh yeah, time to start looking.”
+
+Back across the street the students watched attentively as the owner began to search for his keys.
+
+“He is not very consistent at finding his keys” a student remarked, “maybe he would have more luck if he hid them in one spot every time.”
+
+“To be consistent he would have to change the way he hides his keys” echoed the teacher, “he could put them in the same place every time as to be able to find the keys on the first try each time.”
+
+“He could just switch to 2 spots as well” countered another student.
+
+“That wouldn’t be consistent though” answered another, “he wouldn’t find them in a consistent amount of time with his random search methods.”
+
+Across the street the owner found the keys after 15 searches, due to the high variability in his search methods. His pub opens at a drastically different time each morning due to his idiotic search methods, due to his crazy obsession with statistical randomness. The children were not allowed to go to the pub. The End.
