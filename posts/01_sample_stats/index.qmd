@@ -1,6 +1,7 @@
 ---
 title: "Mini-Project 1: Sampling Distribution of the Sample Minimum and Maximum"
 format: html
+embed-resources: true
 ---
 
 ```{r output=FALSE}
