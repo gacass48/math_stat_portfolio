@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "math_stat_portfolio"
+  title: "Math Stat Portfolio"
   navbar:
     right:
       - about.qmd
