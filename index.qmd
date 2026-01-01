@@ -1,5 +1,5 @@
 ---
-title: "math_stat_portfolio"
+title: "Math Stat Portfolio"
 listing:
   contents: posts
   sort: "date desc"
